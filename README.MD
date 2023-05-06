@@ -18,7 +18,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-0000AA?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
+  <img alt="C++" src="https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python%2B%2B&logoColor=white">
 </p>
 
  
