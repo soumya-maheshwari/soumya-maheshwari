@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on <b>web development</b>
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on <b>open source</b>
-- 📫 How to reach me: <a href="https://t.me/soumyamaheshwari_10">Telegram</a><br />
+- 📫 How to reach me: <a href="https://t.me/soumyamaheshwari_10">Telegram</a>  <a href="https://www.instagram.com/soumya__maheshwari/">Instagram</a>   <a href="https://www.linkedin.com/in/soumya-maheshwari-a4397a229/">LinkedIn</a>  
+
 
 ###  Languages I can Code
 
