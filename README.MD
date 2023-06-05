@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on <b>web development</b>
 <!-- - 🌱 I’m currently learning Docker -->
 - 👯 I’m looking to collaborate on <b>open source</b>
-- 📫 How to reach me: <a href="https://t.me/soumyamaheshwari_10">Telegram</a>  <a href="https://www.instagram.com/soumya__maheshwari/">Instagram</a>   <a href="https://www.linkedin.com/in/soumya-maheshwari-a4397a229/">LinkedIn</a>  
+- 📫 How to reach me: <a href="https://t.me/soumyamaheshwari_10">Telegram</a>  <a href="https://www.instagram.com/soumya__maheshwari/"> <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>   <a href="https://www.linkedin.com/in/soumya-maheshwari-a4397a229/">  <img alt="SOUMYA's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>  
 
 
 ###  Languages I can Code
