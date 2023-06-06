@@ -1,6 +1,6 @@
 # Hi there 👋 I am <b>Soumya Maheshwari</b>
 
-- 🔭 I’m currently working on my<b>Personal growth</b>
+- 🔭 I’m currently working on my <b>Personal growth</b>
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on <b>open source</b>
 - 📫 How to reach me: <a href="https://t.me/soumyamaheshwari_10">Telegram</a>  <a href="https://www.instagram.com/soumya__maheshwari/">Instagram</a>   <a href="https://www.linkedin.com/in/soumya-maheshwari-a4397a229/">LinkedIn
