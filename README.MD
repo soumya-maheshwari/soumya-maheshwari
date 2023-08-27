@@ -34,6 +34,12 @@
     <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     
   </p>
+
+### Tools and Services
+ <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+  <img alt="GIT" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+  
     
 
 ##  Github stats
