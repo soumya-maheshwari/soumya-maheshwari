@@ -33,7 +33,14 @@
     <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     
-  </p>
+</p>
+
+### Database
+<p align="center>
+   <a href="https://github.com/soumya-maheshwari"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+   </a>
+</p>
+
 
 ### Tools and Services
 <p align="center>
