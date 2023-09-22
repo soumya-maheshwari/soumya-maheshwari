@@ -32,6 +32,10 @@
     <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Acss"><img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asoumya-maheshwari+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white"></a>
+
+  
     
 </p>
 
