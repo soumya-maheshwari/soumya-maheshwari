@@ -6,6 +6,39 @@
   />, I'm Soumya Maheshwari
 </h1>
 
+
+
+<div align=center>
+        <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumya-maheshwari&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070" alt="Stats" />
+</p>
+
+</div>
+<div align="center">
+<h2 align="center">About Me 🚀</h2>
+<p align="center">
+🔭 I’m currently working ton my <b>Personal growth</b> </br>
+💼 Have experience working on Full stack projects.</br>
+
+</p>
+</div>
+
+</br>
+
+
+<div align="center">
+<div>
+    <a href="https://www.linkedin.com/in/soumyamaheshwari1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
+        <a href="https://www.discordapp.com/users/soumyamaheshwari"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="mailto:soumyamaheshwari011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    </div>
+</div>
+</br>
+<div align="center">
+
+<img align="center" width="700px" alt="GIF" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
+</div>
+
 <h1 align="center">
   <img
     height="40px"
@@ -83,5 +116,7 @@
     src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"
   />
 </div>
+
+
 
 
